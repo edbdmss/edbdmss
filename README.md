@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://tenor.com/ko/view/park-myeongsu-study-studying-textbook-infinite-challenge-gif-11795775" />
+  <img src="https://media1.tenor.com/m/Z0gQw-L03vAAAAAd/park-myeongsu-study.gif" />
 </div>
 
