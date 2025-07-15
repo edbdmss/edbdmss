@@ -1,11 +1,20 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://media1.tenor.com/m/Z0gQw-L03vAAAAAd/park-myeongsu-study.gif" style="width: 300px; height: auto;" />
+  <img src="https://media1.tenor.com/m/Z0gQw-L03vAAAAAd/park-myeongsu-study.gif" style="width: 600px; height: auto;" />
 </div>
 
-<h3 align="center">🎖️Awards🎖️</h3>
+<br>
+<br>
+
+<h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  🎖️ 2024 Bronze Prize, CNU Digital Competition (Software Division)  
+  <br>– Developed a service software using generative AI  
+  <br><br>
+  🎖️ Excellence Award, 2024 CNU Metaversity Content Competition  
+  <br><br>
+  🎖️ 2025 Silver Prize, CNU Digital Competition (Software Division)  
+  <br>– Developed a software utilizing generative AI to solve social issues  
+  <br><br>
+  🎖️ Encouragement Award, 2025 College of Engineering "Exciting Engineering" Project  
 </div>
