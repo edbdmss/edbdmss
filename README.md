@@ -8,13 +8,10 @@
 
 <h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
-  🎖️ 2024 Bronze Prize, CNU Digital Competition (Software Division)  
-  <br>– Developed a service software using generative AI  
-  <br><br>
-  🎖️ Excellence Award, 2024 CNU Metaversity Content Competition  
-  <br><br>
-  🎖️ 2025 Silver Prize, CNU Digital Competition (Software Division)  
-  <br>– Developed a software utilizing generative AI to solve social issues  
-  <br><br>
+  🎖️ 2024 Bronze Prize, CNU Digital Competition (SW part)  
+  – Developed a service software using generative AI  
+  🎖️ Excellence Award, 2024 CNU Metaversity Content Competition 
+  🎖️ 2025 Silver Prize, CNU Digital Competition (SW part)  
+  – Developed a software utilizing generative AI to solve social issues  
   🎖️ Encouragement Award, 2025 College of Engineering "Exciting Engineering" Project  
 </div>
