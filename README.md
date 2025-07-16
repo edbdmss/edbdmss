@@ -15,9 +15,4 @@
   <li>🎖️ <strong>2025 공과대학 두근두근 엔지니어링 프로젝트 장려상</strong></li>
 </ul>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-007ACC.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL%20Query-FF4154?style=for-the-badge&logo=MySQL%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
+
